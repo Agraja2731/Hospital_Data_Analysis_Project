@@ -1,0 +1,101 @@
+Patient ID,Doctor,Department,Treatment Start Date,Discharge Date,Treatment Cost,Recovery,Stay Duration (D)
+P1000,Dr. Banerjee,Cardiology,2023-04-13,2023-04-18 00:00:00.000000,40743,In Progress,0
+P1001,Dr. Kapoor,General Medicine,2023-06-29,2023-07-08 00:00:00.000000,11102,In Progress,0
+P1002,Dr. Sharma,Neurology,2023-04-03,2023-04-12 00:00:00.000000,24778,Recovered,0
+P1003,Dr. Banerjee,Pediatrics,2023-01-15,2023-01-17 00:00:00.000000,31641,Not Recovered,0
+P1004,Dr. Sharma,General Medicine,2023-04-17,2025-06-16 07:58:02.519418,39584,Recovered,0
+P1005,Dr. Reddy,General Medicine,2023-03-13,2023-03-21 00:00:00.000000,37745,In Progress,0
+P1006,Dr. Sharma,General Medicine,2023-01-21,2023-01-29 00:00:00.000000,28093,In Progress,0
+P1007,Dr. Sharma,General Medicine,2023-04-13,2023-04-16 00:00:00.000000,5569,Not Recovered,0
+P1008,Dr. Sharma,General Medicine,2023-05-02,2023-05-07 00:00:00.000000,43210,In Progress,0
+P1009,Dr. Kapoor,Orthopedics,2023-03-16,2023-03-19 00:00:00.000000,39663,Recovered,0
+P1010,Dr. Sharma,Pediatrics,2023-03-29,2023-04-05 00:00:00.000000,41631,Not Recovered,0
+P1011,Dr. Banerjee,General Medicine,2023-04-27,2023-05-04 00:00:00.000000,12455,Recovered,0
+P1012,Dr. Reddy,Pediatrics,2023-04-10,2025-06-16 07:58:02.519418,9014,Recovered,0
+P1013,Dr. Reddy,Orthopedics,2023-04-14,2023-04-17 00:00:00.000000,16093,Not Recovered,0
+P1014,Dr. Sharma,Orthopedics,2023-06-01,2025-06-16 07:58:02.519418,23070,Recovered,0
+P1015,Dr. Kapoor,Pediatrics,2023-05-11,2023-05-15 00:00:00.000000,40777,In Progress,0
+P1016,Dr. Kapoor,Cardiology,2023-05-30,2023-06-03 00:00:00.000000,21538,Recovered,0
+P1017,Dr. Banerjee,Neurology,2023-02-22,2023-03-01 00:00:00.000000,15729,Not Recovered,0
+P1018,Dr. Sharma,Cardiology,2023-01-02,2023-01-06 00:00:00.000000,39177,Not Recovered,0
+P1019,Dr. Reddy,Cardiology,2023-03-29,2023-04-05 00:00:00.000000,5784,Not Recovered,0
+P1020,Dr. Kapoor,Cardiology,2023-06-07,2023-06-13 00:00:00.000000,32751,Recovered,0
+P1021,Dr. Sharma,General Medicine,2023-02-07,2023-02-16 00:00:00.000000,45864,Not Recovered,0
+P1022,Dr. Kapoor,Orthopedics,2023-05-10,2023-05-14 00:00:00.000000,45328,Not Recovered,0
+P1023,Dr. Kapoor,Cardiology,2023-01-21,2023-01-28 00:00:00.000000,17533,Recovered,0
+P1024,Dr. Reddy,Orthopedics,2023-06-10,2023-06-17 00:00:00.000000,45111,In Progress,0
+P1025,Dr. Mehta,Pediatrics,2023-02-27,2023-02-28 00:00:00.000000,44974,Recovered,0
+P1026,Dr. Banerjee,Neurology,2023-01-22,2023-01-31 00:00:00.000000,10801,Not Recovered,0
+P1027,Dr. Banerjee,Pediatrics,2023-03-30,2023-04-08 00:00:00.000000,24190,Not Recovered,0
+P1028,Dr. Reddy,Pediatrics,2023-02-18,2023-02-24 00:00:00.000000,43754,Recovered,0
+P1029,Dr. Kapoor,General Medicine,2023-02-28,2023-03-09 00:00:00.000000,34592,In Progress,0
+P1030,Dr. Sharma,Neurology,2023-06-19,2023-06-20 00:00:00.000000,15647,Not Recovered,0
+P1031,Dr. Kapoor,Pediatrics,2023-01-15,2023-01-23 00:00:00.000000,13716,Not Recovered,0
+P1032,Dr. Reddy,Pediatrics,2023-06-24,2023-06-30 00:00:00.000000,28355,Not Recovered,0
+P1033,Dr. Banerjee,Neurology,2023-02-20,2023-02-28 00:00:00.000000,27009,Recovered,0
+P1034,Dr. Kapoor,Neurology,2023-04-18,2023-04-19 00:00:00.000000,29376,Not Recovered,0
+P1035,Dr. Banerjee,Pediatrics,2023-02-24,2025-06-16 07:58:02.519418,9780,In Progress,0
+P1036,Dr. Sharma,Neurology,2023-03-05,2023-03-12 00:00:00.000000,7368,Not Recovered,0
+P1037,Dr. Banerjee,Pediatrics,2023-05-11,2023-05-12 00:00:00.000000,17039,Not Recovered,0
+P1038,Dr. Banerjee,Pediatrics,2023-02-20,2023-02-28 00:00:00.000000,11655,In Progress,0
+P1039,Dr. Mehta,General Medicine,2023-05-15,2025-06-16 07:58:02.519418,45941,Not Recovered,0
+P1040,Dr. Mehta,Cardiology,2023-01-21,2023-01-23 00:00:00.000000,9495,Recovered,0
+P1041,Dr. Mehta,Pediatrics,2023-03-14,2023-03-21 00:00:00.000000,15893,Recovered,0
+P1042,Dr. Banerjee,Orthopedics,2023-06-16,2023-06-17 00:00:00.000000,30547,Recovered,0
+P1043,Dr. Reddy,Cardiology,2023-01-18,2023-01-20 00:00:00.000000,27386,In Progress,0
+P1044,Dr. Banerjee,Cardiology,2023-05-12,2023-05-18 00:00:00.000000,18403,Not Recovered,0
+P1045,Dr. Reddy,Cardiology,2023-03-30,2023-04-03 00:00:00.000000,37097,Recovered,0
+P1046,Dr. Reddy,General Medicine,2023-03-01,2025-06-16 07:58:02.519418,18121,In Progress,0
+P1047,Dr. Mehta,Pediatrics,2023-01-14,2023-01-15 00:00:00.000000,15966,Not Recovered,0
+P1048,Dr. Kapoor,General Medicine,2023-01-09,2023-01-17 00:00:00.000000,38621,In Progress,0
+P1049,Dr. Sharma,Pediatrics,2023-03-31,2023-04-02 00:00:00.000000,33312,Recovered,0
+P1050,Dr. Mehta,General Medicine,2023-02-22,2023-02-23 00:00:00.000000,27677,Recovered,0
+P1051,Dr. Mehta,General Medicine,2023-05-10,2023-05-16 00:00:00.000000,36289,Recovered,0
+P1052,Dr. Kapoor,Orthopedics,2023-03-25,2023-03-28 00:00:00.000000,36024,In Progress,0
+P1053,Dr. Sharma,General Medicine,2023-04-02,2023-04-06 00:00:00.000000,47675,In Progress,0
+P1054,Dr. Banerjee,Neurology,2023-04-21,2025-06-16 07:58:02.519418,9777,Recovered,0
+P1055,Dr. Banerjee,Orthopedics,2023-06-21,2023-06-24 00:00:00.000000,34749,In Progress,0
+P1056,Dr. Mehta,General Medicine,2023-01-08,2023-01-15 00:00:00.000000,20338,Recovered,0
+P1057,Dr. Sharma,Cardiology,2023-06-24,2023-06-25 00:00:00.000000,7491,Recovered,0
+P1058,Dr. Mehta,Neurology,2023-02-04,2023-02-11 00:00:00.000000,32236,Not Recovered,0
+P1059,Dr. Reddy,Neurology,2023-03-22,2023-03-23 00:00:00.000000,19599,In Progress,0
+P1060,Dr. Mehta,Neurology,2023-06-13,2023-06-22 00:00:00.000000,24508,Recovered,0
+P1061,Dr. Mehta,Orthopedics,2023-02-19,2023-02-26 00:00:00.000000,8051,Recovered,0
+P1062,Dr. Banerjee,General Medicine,2023-04-14,2023-04-17 00:00:00.000000,26606,In Progress,0
+P1063,Dr. Banerjee,General Medicine,2023-05-12,2023-05-21 00:00:00.000000,26699,Not Recovered,0
+P1064,Dr. Banerjee,Cardiology,2023-01-02,2023-01-03 00:00:00.000000,5876,Not Recovered,0
+P1065,Dr. Reddy,Cardiology,2023-05-14,2023-05-19 00:00:00.000000,37093,Recovered,0
+P1066,Dr. Banerjee,Neurology,2023-02-23,2023-03-02 00:00:00.000000,9142,In Progress,0
+P1067,Dr. Sharma,Cardiology,2023-04-16,2023-04-19 00:00:00.000000,20202,Not Recovered,0
+P1068,Dr. Kapoor,Orthopedics,2023-01-04,2023-01-07 00:00:00.000000,44734,In Progress,0
+P1069,Dr. Sharma,General Medicine,2023-02-23,2023-03-01 00:00:00.000000,12079,In Progress,0
+P1070,Dr. Sharma,Neurology,2023-05-26,2023-06-03 00:00:00.000000,12987,Recovered,0
+P1071,Dr. Banerjee,Cardiology,2023-02-13,2023-02-14 00:00:00.000000,44567,Not Recovered,0
+P1072,Dr. Kapoor,Orthopedics,2023-06-11,2023-06-17 00:00:00.000000,33940,Recovered,0
+P1073,Dr. Kapoor,Orthopedics,2023-01-14,2023-01-17 00:00:00.000000,42233,Not Recovered,0
+P1074,Dr. Kapoor,Cardiology,2023-04-05,2023-04-14 00:00:00.000000,22019,Not Recovered,0
+P1075,Dr. Reddy,General Medicine,2023-02-17,2023-02-19 00:00:00.000000,23077,Not Recovered,0
+P1076,Dr. Banerjee,Cardiology,2023-01-15,2023-01-17 00:00:00.000000,31258,Not Recovered,0
+P1077,Dr. Kapoor,Neurology,2023-02-09,2023-02-12 00:00:00.000000,26136,Not Recovered,0
+P1078,Dr. Reddy,Cardiology,2023-03-23,2023-04-01 00:00:00.000000,13311,In Progress,0
+P1079,Dr. Mehta,Orthopedics,2023-04-21,2023-04-25 00:00:00.000000,22214,Recovered,0
+P1080,Dr. Mehta,Cardiology,2023-02-22,2023-02-27 00:00:00.000000,19098,In Progress,0
+P1081,Dr. Reddy,General Medicine,2023-01-24,2023-02-01 00:00:00.000000,33251,Not Recovered,0
+P1082,Dr. Reddy,Pediatrics,2023-06-03,2023-06-10 00:00:00.000000,42945,Recovered,0
+P1083,Dr. Banerjee,Cardiology,2023-05-04,2023-05-05 00:00:00.000000,30945,Not Recovered,0
+P1084,Dr. Banerjee,General Medicine,2023-02-10,2023-02-13 00:00:00.000000,30316,Recovered,0
+P1085,Dr. Mehta,General Medicine,2023-06-06,2023-06-12 00:00:00.000000,37217,In Progress,0
+P1086,Dr. Kapoor,Orthopedics,2023-01-15,2023-01-21 00:00:00.000000,13308,Recovered,0
+P1087,Dr. Mehta,General Medicine,2023-02-14,2023-02-17 00:00:00.000000,10949,Recovered,0
+P1088,Dr. Kapoor,General Medicine,2023-03-06,2023-03-08 00:00:00.000000,6150,Recovered,0
+P1089,Dr. Kapoor,General Medicine,2023-03-30,2023-03-31 00:00:00.000000,28944,Recovered,0
+P1090,Dr. Banerjee,General Medicine,2023-03-12,2023-03-13 00:00:00.000000,39699,Recovered,0
+P1091,Dr. Sharma,Neurology,2023-01-09,2023-01-12 00:00:00.000000,14204,Not Recovered,0
+P1092,Dr. Sharma,Neurology,2023-03-29,2023-03-30 00:00:00.000000,6081,Recovered,0
+P1093,Dr. Reddy,Orthopedics,2023-05-09,2025-06-16 07:58:02.519418,34305,Recovered,0
+P1094,Dr. Banerjee,Cardiology,2023-05-16,2023-05-21 00:00:00.000000,21896,In Progress,0
+P1095,Dr. Kapoor,General Medicine,2023-03-04,2023-03-13 00:00:00.000000,12805,Recovered,0
+P1096,Dr. Sharma,Cardiology,2023-05-19,2023-05-20 00:00:00.000000,10237,In Progress,0
+P1097,Dr. Kapoor,Cardiology,2023-03-22,2023-03-25 00:00:00.000000,25056,Not Recovered,0
+P1098,Dr. Sharma,Orthopedics,2023-05-16,2023-05-20 00:00:00.000000,8343,Recovered,0
+P1099,Dr. Sharma,General Medicine,2023-06-12,2023-06-17 00:00:00.000000,18500,In Progress,0
